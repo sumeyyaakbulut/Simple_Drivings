@@ -1,6 +1,6 @@
 # Simple_Drivings
 How about playing an Android car game?
-
+There is a road in the game and it is an android game that tries to move forward without hitting the objects next to the car.
 
 
 
